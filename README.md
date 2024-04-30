@@ -1,10 +1,5 @@
-<div align="left">
-  <img height="164" src="https://imgs.search.brave.com/dEAgpYGTtmKeN323R-pr0kVgFmJ0TfI6LzPRyaB1xRY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL0VyWjho/djVlTzkySlcvMjAw/LmdpZj9jaWQ9Nzkw/Yjc2MTFzZGxjN2k1/Z2txMng4NjlhZmZv/cHU2NWhjbXA2emhz/bXFtODFvYnkzJmVw/PXYxX2dpZnNfc2Vh/cmNoJnJpZD0yMDAu/Z2lmJmN0PWc.gif"
-  align="center"/a>
-
-  ###
-  
-<a href="https://www.linkedin.com/in/jorge-natan-marques-ribeiro-serra-99b494231/" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/jorge-natan-marques-ribeiro-serra-99b494231/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="ntsiin" target="_blank">
@@ -20,6 +15,12 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=natanserra.natanserra&"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -59,10 +60,8 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jorge-natan-marques-ribeiro-serra-99b494231/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>  />
+<div align="left">
+  <img height="164" src="https://imgs.search.brave.com/dEAgpYGTtmKeN323R-pr0kVgFmJ0TfI6LzPRyaB1xRY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL0VyWjho/djVlTzkySlcvMjAw/LmdpZj9jaWQ9Nzkw/Yjc2MTFzZGxjN2k1/Z2txMng4NjlhZmZv/cHU2NWhjbXA2emhz/bXFtODFvYnkzJmVw/PXYxX2dpZnNfc2Vh/cmNoJnJpZD0yMDAu/Z2lmJmN0PWc.gif"  />
 </div>
 
 ###
