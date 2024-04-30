@@ -1,19 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/jorge-natan-marques-ribeiro-serra-99b494231/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="ntsiin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="instagram.com/ntsiin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=natanserra.natanserra&"  />
+  <img height="339" src="https://imgs.search.brave.com/zMSz3Pb8w6BaUb2FkQ4vSj4anRlcHN7VKQOgu6jWHFo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL29yVUJz/RGpsRDJyenN6NnBQ/Sy8yMDAuZ2lmP2Np/ZD03OTBiNzYxMXl2/ZjVpMzA4YXAzMXI0/bWswZmhlZHY4aHpi/dmIyeDV4Y3drYXVy/amkmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif"  />
 </div>
 
 ###
@@ -56,12 +42,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=natanserra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="164" src="https://imgs.search.brave.com/dEAgpYGTtmKeN323R-pr0kVgFmJ0TfI6LzPRyaB1xRY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL0VyWjho/djVlTzkySlcvMjAw/LmdpZj9jaWQ9Nzkw/Yjc2MTFzZGxjN2k1/Z2txMng4NjlhZmZv/cHU2NWhjbXA2emhz/bXFtODFvYnkzJmVw/PXYxX2dpZnNfc2Vh/cmNoJnJpZD0yMDAu/Z2lmJmN0PWc.gif"  />
 </div>
 
 ###
