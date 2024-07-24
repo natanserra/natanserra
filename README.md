@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">🔭 I'm working as a Backend Developer<br>- 📚 I am currently learning Python & Nodejs<br>- ⚡In my free time I play games</p>
+<p align="left">🔭 I'm working as a Backend Developer<br>- 📚 I am currently learning Python & Nodejs<br>-
 
 ###
 
