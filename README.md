@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="339" src="https://imgs.search.brave.com/zMSz3Pb8w6BaUb2FkQ4vSj4anRlcHN7VKQOgu6jWHFo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL29yVUJz/RGpsRDJyenN6NnBQ/Sy8yMDAuZ2lmP2Np/ZD03OTBiNzYxMXl2/ZjVpMzA4YXAzMXI0/bWswZmhlZHY4aHpi/dmIyeDV4Y3drYXVy/amkmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
