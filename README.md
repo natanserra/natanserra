@@ -1,13 +1,15 @@
-### Hi there 👋, Meu nome é Natan
-#### Desenvolvedor Back-end 
-Sou desenvolvedor Back-end há 1 ano, com foco em Python e Django
+## Olá! Eu sou o Natan 🖐️
 
+## Tecnologias que eu uso no meu dia
 
-Skills: Python/Django
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="GIT" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
+</div><br/>
 
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/natanserra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/natanserra/)  
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 
