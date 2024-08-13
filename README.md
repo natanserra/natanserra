@@ -7,6 +7,8 @@
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+ 
+  
   <img align="center" alt="GIT" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanserra&theme=blue-green" />
 </div><br/>
 
