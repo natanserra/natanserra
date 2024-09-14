@@ -1,4 +1,3 @@
-![Natan languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanserra&theme=blue-green)
 ## Tecnologias que eu uso no meu dia
 
 
