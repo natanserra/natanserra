@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h6 align="left">Tecnologias que uso no meu dia a dia</h6>
+<p align="left">Tecnologias que uso no meu dia a dia</p>
 
 ###
 
@@ -27,7 +27,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/natanserra/natanserra/output/snake.svg" alt="Snake animation" />
 
 ###
